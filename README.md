@@ -10,6 +10,4 @@
   👉 gelen hatayı araştırdım. **http** kullanın yazıyordu çalıştı.
 
 ![image-20210627132337050](img\image-20210627132337050.png)
-
-
-
+- [x] resimler görünsün diye img direktörisi ekledim.
